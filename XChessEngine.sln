@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XChessUCI", "XChessUCI\XChessUCI.csproj", "{4612A0C9-1CE7-4024-8F9B-FEAB387D534E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XChessEngine", "XChessEngine\XChessEngine.csproj", "{4930270B-1A67-4067-A603-825F17281BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4612A0C9-1CE7-4024-8F9B-FEAB387D534E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4612A0C9-1CE7-4024-8F9B-FEAB387D534E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4612A0C9-1CE7-4024-8F9B-FEAB387D534E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4612A0C9-1CE7-4024-8F9B-FEAB387D534E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4930270B-1A67-4067-A603-825F17281BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4930270B-1A67-4067-A603-825F17281BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4930270B-1A67-4067-A603-825F17281BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4930270B-1A67-4067-A603-825F17281BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63B5B35B-374D-41EA-98DC-979B7E2A6C81}
+	EndGlobalSection
+EndGlobal
